@@ -39,7 +39,7 @@ We welcome contributions from developers, designers, and innovators.
 
 ## **Contact**
 For inquiries or collaboration opportunities:  
-- Email: contact.akashdeep023@gmail.com 
+- Email: contact.rerevolve@gmail.com 
 - GitHub: [ReRevolve](https://github.com/rerevolve)
 
 ---
