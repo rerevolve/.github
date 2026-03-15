@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">  
     <a href="https://github.com/rerevolve/rerevolve">     
-        <img width="1890" height="664" alt="R_banner_L" src="https://github.com/user-attachments/assets/a5a41b73-320e-4497-b1a9-1dec43d5e6ac" /> 
+        <img width="1890" height="664" alt="REREVOLVE_BANNER" src="./REREVOLVE_BANNER.png" /> 
     </a>  
     <h3 align="center">ReRevolve </h3>  
     <p align="center">    Crafting websites that innovate, inspire, and engage.    
